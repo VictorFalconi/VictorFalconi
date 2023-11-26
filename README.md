@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer with a year of experience using React, Typescript, Node, Express, MongoDB and PostgreSQL.
+I'm a full stack developer with many years of experience using Golang, Python, C#, C++, React, Typescript, Node, Express, MongoDB and PostgreSQL.
 
 
 ## Other Common Github Profile Sections
